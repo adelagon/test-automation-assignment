@@ -14,7 +14,7 @@
   npm install
   ```
 
-* Run the Mock API server. The bundled mock server should be available in hhttp://localhost:3000
+* Run the Mock API server. The bundled mock server should be accessible on http://localhost:3000
 
   ```bash
   npm start
