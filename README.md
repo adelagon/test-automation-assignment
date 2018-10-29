@@ -9,6 +9,8 @@
 * clone this repository and run
 
   ```bash
+  git clone https://github.com/adelagon/test-automation-assignment.git
+  cd test-automation-assignment
   npm install
   ```
 
