@@ -40,9 +40,9 @@ You may also read the mock server (json-server) docs here: https://github.com/ty
 
 ## Requirements
 
-* Using any programming language create a test automation script that will verify all the API endpoints and methods.
-* You may use a test automation framework as needed. Some options are:
+* [REQUIRED] Using any programming language create a test automation script that will verify all the API endpoints and methods.
+* [OPTIONAL] You may use a test automation framewor. Some options are:
   * https://mochajs.org
   * http://robotframework.org
-* As a bonus: your test automation script should also confirm the values being stored in the database are correct when it is interacting with the API. The mock server's database is based on **lowdb** https://github.com/typicode/lowdb. Your automation script may read the **db.json** file to confirm the database activities.
+* [BONUS] your test automation script should also confirm the values being stored in the database are correct when it is interacting with the API. The mock server's database is based on **lowdb** https://github.com/typicode/lowdb. Your automation script may read the **db.json** file to confirm the database activities.
 * Submit your automation script either via email or send us your github link.
